@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "place_names",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name_en": "Kedumim", "name_he": null, "name_ar": null, "lat": 32.214491, "lon": 35.15758, "type": "settlements" }, "geometry": { "type": "Point", "coordinates": [ 35.15758, 32.214491 ] } },
+{ "type": "Feature", "properties": { "name_en": "Ari'el", "name_he": null, "name_ar": null, "lat": 32.104958, "lon": 35.174031, "type": "settlements" }, "geometry": { "type": "Point", "coordinates": [ 35.174031, 32.104958 ] } },
+{ "type": "Feature", "properties": { "name_en": "Ma'ale Adumim", "name_he": null, "name_ar": null, "lat": 31.781576, "lon": 35.297597, "type": "settlements" }, "geometry": { "type": "Point", "coordinates": [ 35.297597, 31.781576 ] } },
+{ "type": "Feature", "properties": { "name_en": "Kiryat Arba", "name_he": null, "name_ar": null, "lat": 31.533259, "lon": 35.11567, "type": "settlements" }, "geometry": { "type": "Point", "coordinates": [ 35.11567, 31.533259 ] } },
+{ "type": "Feature", "properties": { "name_en": "Beit El", "name_he": null, "name_ar": null, "lat": 31.942458, "lon": 35.222885, "type": "settlements" }, "geometry": { "type": "Point", "coordinates": [ 35.222885, 31.942458 ] } },
+{ "type": "Feature", "properties": { "name_en": "Jenin", "name_he": null, "name_ar": null, "lat": 32.460872, "lon": 35.30073, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.30073, 32.460872 ] } },
+{ "type": "Feature", "properties": { "name_en": "Tulkarm", "name_he": null, "name_ar": null, "lat": 32.312114, "lon": 35.027255, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.027255, 32.312114 ] } },
+{ "type": "Feature", "properties": { "name_en": "Nablus", "name_he": null, "name_ar": null, "lat": 32.224813, "lon": 35.262319, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.262319, 32.224813 ] } },
+{ "type": "Feature", "properties": { "name_en": "Qalqiliyah", "name_he": null, "name_ar": null, "lat": 32.189174, "lon": 34.971861, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 34.971861, 32.189174 ] } },
+{ "type": "Feature", "properties": { "name_en": "Ramallah", "name_he": null, "name_ar": null, "lat": 31.904105, "lon": 35.203231, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.203231, 31.904105 ] } },
+{ "type": "Feature", "properties": { "name_en": "East Jerusalem", "name_he": null, "name_ar": null, "lat": 31.782364, "lon": 35.238886, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.238886, 31.782364 ] } },
+{ "type": "Feature", "properties": { "name_en": "Jericho", "name_he": null, "name_ar": null, "lat": 31.861299, "lon": 35.461556, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.461556, 31.861299 ] } },
+{ "type": "Feature", "properties": { "name_en": "Bethlehem", "name_he": null, "name_ar": null, "lat": 31.705345, "lon": 35.203352, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.203352, 31.705345 ] } },
+{ "type": "Feature", "properties": { "name_en": "Hebron", "name_he": null, "name_ar": null, "lat": 31.532423, "lon": 35.099884, "type": "palestinian_wb" }, "geometry": { "type": "Point", "coordinates": [ 35.099884, 31.532423 ] } },
+{ "type": "Feature", "properties": { "name_en": "Jabalya", "name_he": null, "name_ar": null, "lat": 31.538565, "lon": 34.495712, "type": "palestinian_gaza" }, "geometry": { "type": "Point", "coordinates": [ 34.495712, 31.538565 ] } },
+{ "type": "Feature", "properties": { "name_en": "Gaza city", "name_he": null, "name_ar": null, "lat": 31.513953, "lon": 34.459425, "type": "palestinian_gaza" }, "geometry": { "type": "Point", "coordinates": [ 34.459425, 31.513953 ] } },
+{ "type": "Feature", "properties": { "name_en": "Deir al-Balah", "name_he": null, "name_ar": null, "lat": 31.417941, "lon": 34.351803, "type": "palestinian_gaza" }, "geometry": { "type": "Point", "coordinates": [ 34.351803, 31.417941 ] } },
+{ "type": "Feature", "properties": { "name_en": "Khan Yunis", "name_he": null, "name_ar": null, "lat": 31.345245, "lon": 34.302469, "type": "palestinian_gaza" }, "geometry": { "type": "Point", "coordinates": [ 34.302469, 31.345245 ] } },
+{ "type": "Feature", "properties": { "name_en": "Rafah", "name_he": null, "name_ar": null, "lat": 31.297877, "lon": 34.244754, "type": "palestinian_gaza" }, "geometry": { "type": "Point", "coordinates": [ 34.244754, 31.297877 ] } },
+{ "type": "Feature", "properties": { "name_en": "Tel Aviv-Yafo", "name_he": null, "name_ar": null, "lat": 32.063407, "lon": 34.772601, "type": "israeli" }, "geometry": { "type": "Point", "coordinates": [ 34.772601, 32.063407 ] } },
+{ "type": "Feature", "properties": { "name_en": "Jerusalem", "name_he": null, "name_ar": null, "lat": 31.782978, "lon": 35.211042, "type": "israeli" }, "geometry": { "type": "Point", "coordinates": [ 35.211042, 31.782978 ] } },
+{ "type": "Feature", "properties": { "name_en": "Beersheba", "name_he": null, "name_ar": null, "lat": 31.25264, "lon": 34.791519, "type": "israeli" }, "geometry": { "type": "Point", "coordinates": [ 34.791519, 31.25264 ] } },
+{ "type": "Feature", "properties": { "name_en": "Haifa", "name_he": null, "name_ar": null, "lat": 32.792094, "lon": 34.993288, "type": "israeli" }, "geometry": { "type": "Point", "coordinates": [ 34.993288, 32.792094 ] } }
+]
+}
